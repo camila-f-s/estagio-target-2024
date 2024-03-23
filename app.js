@@ -71,7 +71,7 @@ a) 1, 3, 5, 7, _9_
 (soma-se de 2 em 2)
 
 b) 2, 4, 8, 16, 32, 64, _128_
-(multiplos de 2)
+(múltiplos de 2)
 
 c) 0, 1, 4, 9, 16, 25, 36, _49_
 (soma-se os intervalos de números ímpares subsequentes com o último número, exemplo:
